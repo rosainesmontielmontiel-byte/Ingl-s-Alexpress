@@ -1,0 +1,15 @@
+INGLES ALEXPRESS - Sitio web (landing page)
+
+Contenido:
+  index.html  -> pagina completa (logo, fotos, estilos y scripts incluidos en un solo archivo)
+
+Como montarlo en un hosting:
+  1. Entra al administrador de archivos (cPanel, Hostinger, etc.) o usa FTP.
+  2. Abre la carpeta publica: public_html (o www / htdocs).
+  3. Sube index.html a esa carpeta (o sube el .zip y extraelo ahi).
+  4. Abre tu dominio: la pagina se vera de inmediato.
+
+Notas:
+  - Requiere conexion a internet para cargar las fuentes de Google (Poppins, Lora, Marck Script) y el video de YouTube.
+  - Pendiente por configurar: el enlace del correo electronico (en el script, dentro de LINKS -> email).
+  - Numero de WhatsApp: se cambia en el script (WA_NUMBER).
